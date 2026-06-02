@@ -29,5 +29,3 @@ This project is an automated Weather Alert System built using **n8n**. The workf
 ## Use Case
 
 This workflow helps users stay informed about extreme weather conditions by automatically sending alerts when temperatures become unusually high.
-
-⚠️ **Note:** Before publishing the workflow, remove or replace any exposed API keys, email addresses, and credentials with placeholders for security reasons.
